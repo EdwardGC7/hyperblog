@@ -16,3 +16,9 @@ body
     width: 20px;
     vertical-align: middle;
 }
+#footer {
+    color: blue;
+    background-color: burlywood;
+    font-size: large;
+    font-weight: bold;
+}
