@@ -11,3 +11,9 @@ body
 #cabecera {
     background-color: blueviolet;
 }
+#footer {
+    color: blue;
+    background-color: burlywood;
+    font-size: large;
+    font-weight: bold;
+}
